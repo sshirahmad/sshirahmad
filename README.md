@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sshirahmad
-- 👀 I’m interested in Deep Learning and Computer Vision!
-- 💞️ I’m looking to collaborate on developing exaplainable deep learning models and causal inference. 
-- 📫 The best way to reach me is to use my email: sshirahm@uwaterloo.ca. 
+- 👀 I’m interested in Deep Learning, Machine Learning, Computer Vision, and Causality!
+- 💞️ I’m looking to apply my skills and knowledge in real-world application. 
+- 📫 The best way to reach me is to use my email: shayan.shirahmadi@gmail.com. 
 
 <!---
 sshirahmad/sshirahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
