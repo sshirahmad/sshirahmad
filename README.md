@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shayan Shirahmad
+# Hi there 👋, I'm Shayan Shirahmad Gale Bagi
 
 I am a machine learning researcher and developer specializing in designing, debugging, and deploying ML models across diverse industries, including:
 
